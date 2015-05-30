@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationViewExample</string>
+
+    <string name="navigation_item_1">Menu item 1</string>
+    <string name="navigation_item_2">Menu item 2</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
