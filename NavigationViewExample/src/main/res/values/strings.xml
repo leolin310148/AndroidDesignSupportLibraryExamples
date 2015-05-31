@@ -3,6 +3,7 @@
 
     <string name="navigation_item_1">Menu item 1</string>
     <string name="navigation_item_2">Menu item 2</string>
-    <string name="open">Open</string>
-    <string name="close">Close</string>
+    <string name="navigation_subheader">Sub header</string>
+    <string name="navigation_sub_item_1">Sub item 1</string>
+    <string name="navigation_sub_item_2">Sub item 2</string>
 </resources>

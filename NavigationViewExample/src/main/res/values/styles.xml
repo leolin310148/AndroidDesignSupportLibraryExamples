@@ -3,11 +3,10 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="drawerArrowStyle">@style/AppTheme.DrawerArrowToggle</item>
         <item name="android:statusBarColor">@color/status_bar</item>
 
     </style>
-    <style name="AppTheme.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
-        <item name="color">@android:color/white</item>
+    <style name="ToolBarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:displayOptions">homeAsUp</item>
     </style>
 </resources>
