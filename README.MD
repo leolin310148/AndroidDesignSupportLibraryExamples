@@ -1,6 +1,6 @@
 AndroidDesignSupportLibraryExamples
 ================================
-Simple clear examples for [Android Design Support Library](http://android-developers.blogspot.tw/2015/05/android-design-support-library.html)
+Simple examples for [Android Design Support Library](http://android-developers.blogspot.tw/2015/05/android-design-support-library.html)
 
 NavigationViewExample
 ================================
