@@ -1,0 +1,21 @@
+<android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/coordinatorLayout">
+
+
+    <android.support.v7.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+        <TextView
+                android:text="Haha"
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+    </android.support.v7.widget.CardView>
+
+
+</android.support.design.widget.CoordinatorLayout>
