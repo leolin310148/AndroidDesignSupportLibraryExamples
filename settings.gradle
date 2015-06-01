@@ -1,1 +1,1 @@
-include ':NavigationViewExample', ':TextInputLayoutExample', ':FloatingActionButtonExample', ':SnackBarExample', ':TabLayoutExample'
+include ':NavigationViewExample', ':TextInputLayoutExample', ':FloatingActionButtonExample', ':SnackBarExample', ':TabLayoutExample', ':CoordinatorFloatingActionButtonSnackBarExample', ':CoordinatorToolBarExample', ':CoordinatorCollapsingToolBarExample'

@@ -1,4 +1,4 @@
-package me.leolin.android.design.floatingactionbutton;
+package me.leolin.android.design.coordinatorcollapsingtoolbarexample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

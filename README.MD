@@ -23,3 +23,35 @@ TabLayoutExample
 ================================
 <a href="http://imgur.com/086CsFF"><img src="http://i.imgur.com/086CsFF.png?1" title="source: imgur.com" /></a>
 
+
+CoordinatorFloatingActionButtonSnackBarExample
+================================
+<span>
+<a href="http://imgur.com/FEk1Z0g"><img src="http://i.imgur.com/FEk1Z0g.png?1" title="source: imgur.com" /></a>
+</span>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<span>
+<a href="http://imgur.com/dCsTUqg"><img src="http://i.imgur.com/dCsTUqg.png?1" title="source: imgur.com" /></a>
+</span>
+
+CoordinatorToolBarExample
+================================
+<span>
+<a href="http://imgur.com/D2MaQhB"><img src="http://i.imgur.com/D2MaQhB.png?1" title="source: imgur.com" /></a>
+</span>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<span>
+<a href="http://imgur.com/ct1XjSr"><img src="http://i.imgur.com/ct1XjSr.png?1" title="source: imgur.com" /></a>
+</span>
+
+             
+CoordinatorCollapsingToolBarExample
+================================
+<span>
+<a href="http://imgur.com/I0gOs6E"><img src="http://i.imgur.com/I0gOs6E.png?1" title="source: imgur.com" /></a>
+</span>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<span>
+<a href="http://imgur.com/fZN0Ppa"><img src="http://i.imgur.com/fZN0Ppa.png?1" title="source: imgur.com" /></a>
+</span>
+
